@@ -2,7 +2,7 @@
 ## 1. Make a matrix
 ## x = matrix( c(2, 4, 3, 1, 5, 7, 9, 6, 0, 1, 7, 6, 4, 9, 5, 8), nrow=4)
 ##
-## 2. Pass it to the MakeCacheMatrix function
+## 2. Call the MakeCacheMatrix function
 ## cachex <- makeCacheMatrix(x)
 ##
 ## 3. Show the matrix
